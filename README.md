@@ -69,7 +69,7 @@ Reference channels are installed by uploading them into a channel in your Polari
 
 3. Click on the *open file* button and select the CSV you want to import
 
-![image](images/apply-annotations-button.png)
+![image](images/open_file.png)
 
 Once loaded a preview of the data will appear in the *Apply Annotations* window.
 
