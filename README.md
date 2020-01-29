@@ -10,7 +10,7 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains information about Mitre Att&ck Tactic Ids including Pre-Att&ck, Enterprise and Mobile.  Tactics Ids are of the form `TA####`.
 
-https://attack.mitre.org/tactics/pre/
+More Info: https://attack.mitre.org/tactics/pre/
 
 ![image](mitre-channels/images/tactic.png)
 
@@ -20,7 +20,7 @@ https://attack.mitre.org/tactics/pre/
 
 Includes reference information about Mitre Att&ck Techniques including Pre-Att&ck, Enterprise and Mobile.  The channel data provides contextual information around the Technique Ids which are of the form `T####`.
 
-https://attack.mitre.org/techniques/pre/
+More Info: https://attack.mitre.org/techniques/pre/
 
 ![image](mitre-channels/images/technique.png)
 
@@ -30,7 +30,7 @@ https://attack.mitre.org/techniques/pre/
 
 Contains information about Mitre Att&ck Mitigation codes including Enterprise and Mobile.  The channel data provides contextual information around the Mitigation Ids which are of the form `M####`.
 
-https://attack.mitre.org/mitigations/enterprise/
+More Info: https://attack.mitre.org/mitigations/enterprise/
 
 ![image](mitre-channels/images/mitigation.png)
 
@@ -40,7 +40,7 @@ https://attack.mitre.org/mitigations/enterprise/
 
 The Mitre Att&ck Group reference channel contains information about sets of related intrusion activity and the common names used in the security community to reference the activity.
 
-https://attack.mitre.org/groups/
+More Info: https://attack.mitre.org/groups/
 
 ![image](mitre-channels/images/group.png)
 
@@ -50,7 +50,7 @@ https://attack.mitre.org/groups/
 
 Contains information about Mitre Att&ck Software.
 
-https://attack.mitre.org/software/
+More Info: https://attack.mitre.org/software/
 
 ![image](mitre-channels/images/software.png)
 
@@ -83,10 +83,9 @@ Once loaded a preview of the data will appear in the *Apply Annotations* window.
 
 > If the channel you want to import the data into doesn't exist, you can create a new channel right from the channel selector
 
-6. Press the *Apply Annotations" button to start the import process.
+6. Press the *Apply Annotations* button to start the import process.
 
 7. Once complete, you can now subscribe to the channel to receive notifications
-
 
 ## About Polarity
 
