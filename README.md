@@ -10,6 +10,8 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains information about Mitre Att&ck Tactic Ids including Pre-Att&ck, Enterprise and Mobile.  Tactics Ids are of the form `TA####`.
 
+Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_tactics_v1.0.0.csv
+
 More Info: https://attack.mitre.org/tactics/pre/
 
 ![image](mitre-channels/images/tactic.png)
@@ -19,6 +21,8 @@ More Info: https://attack.mitre.org/tactics/pre/
 `mitre-channels/mitre_att&ck_techniques_v1.0.0.csv`
 
 Includes reference information about Mitre Att&ck Techniques including Pre-Att&ck, Enterprise and Mobile.  The channel data provides contextual information around the Technique Ids which are of the form `T####`.
+
+Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_techniques_v1.0.0.csv
 
 More Info: https://attack.mitre.org/techniques/pre/
 
@@ -30,6 +34,8 @@ More Info: https://attack.mitre.org/techniques/pre/
 
 Contains information about Mitre Att&ck Mitigation codes including Enterprise and Mobile.  The channel data provides contextual information around the Mitigation Ids which are of the form `M####`.
 
+Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_mitigations_v1.0.0.csv
+
 More Info: https://attack.mitre.org/mitigations/enterprise/
 
 ![image](mitre-channels/images/mitigation.png)
@@ -40,6 +46,8 @@ More Info: https://attack.mitre.org/mitigations/enterprise/
 
 The Mitre Att&ck Group reference channel contains information about sets of related intrusion activity and the common names used in the security community to reference the activity.
 
+Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_groups_v1.0.0.csv
+
 More Info: https://attack.mitre.org/groups/
 
 ![image](mitre-channels/images/group.png)
@@ -49,6 +57,8 @@ More Info: https://attack.mitre.org/groups/
 `mitre-channels/mitre_att&ck_software_v1.0.0.csv`
 
 Contains information about Mitre Att&ck Software.
+
+Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_software_v1.0.0.csv
 
 More Info: https://attack.mitre.org/software/
 
