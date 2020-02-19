@@ -10,7 +10,9 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains information about Mitre Att&ck Tactic Ids including Pre-Att&ck, Enterprise and Mobile.  Tactics Ids are of the form `TA####`.
 
-Download (Right click -> Save As): https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_tactics_v1.0.0.csv
+Download: 
+<a href="data:application/octet-stream,DATA" download="mitre_attack_tactics_v1.0.0.csv">https://raw.githubusercontent.com/polarityio/reference-channels/master/mitre-channels/mitre_att%26ck_tactics_v1.0.0.csv</a>
+
 
 More Info: https://attack.mitre.org/tactics/pre/
 
