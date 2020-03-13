@@ -6,4 +6,4 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains information relating to PostgresSQL Error codes, mapping the code to the issue withing Postgres. 
 
-![image](reference-channels/postgressql-error-codes/images/postgres.png)
+![image](reference-channels/images/postgres.png)

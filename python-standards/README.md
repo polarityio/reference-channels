@@ -6,4 +6,4 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains information relating to Python standards, providing context whenever there is a standard function on your screen such as diffllib.
 
-![image](reference-channels/python-standards/images/python.png)
+![image](reference-channels/images/python.png)
