@@ -6,4 +6,4 @@ Polarity Reference channels are a set of curated data that can be imported into 
 
 Contains contextual awareness if there is a metaploitable vulnerability relating to Common Vulnerabilitis and Exposures (CVE).
 
-![image](metasploitable-vulnerabilities/images/meta.png)
+![image](reference-channels/metasploitable-vulnerabilities/images/meta.png)
