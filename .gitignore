@@ -15,6 +15,7 @@ sftp-config.json
 *.project
 *.classpath
 dependency-reduced-pom.xml
+*.histoy
 
 # Ignore Excel Files
 *.xlsx
