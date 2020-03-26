@@ -1,0 +1,288 @@
+Standard,Description,Category
+string,Common string operations,String Services
+re , Regular expression operations,String Services
+struct , Interpret strings as packed binary data,String Services
+difflib , Helpers for computing deltas,String Services
+StringIO , Read and write strings as files,String Services
+cStringIO , Faster version of StringIO,String Services
+textwrap , Text wrapping and filling,String Services
+codecs , Codec registry and base classes,String Services
+unicodedata , Unicode Database,String Services
+stringprep , Internet String Preparation,String Services
+fpformat , Floating point conversions,String Services
+datetime , Basic date and time types,Data Type
+calendar , General calendar-related functions,Data Type
+collections , High-performance container datatypes,Data Type
+heapq , Heap queue algorithm,Data Type
+bisect , Array bisection algorithm,Data Type
+array , Efficient arrays of numeric values,Data Type
+sets , Unordered collections of unique elements,Data Type
+sched , Event scheduler,Data Type
+mutex , Mutual exclusion support,Data Type
+Queue , A synchronized queue class,Data Type
+weakref , Weak references,Data Type
+UserDict , Class wrapper for dictionary objects,Data Type
+UserList , Class wrapper for list objects,Data Type
+UserString , Class wrapper for string objects,Data Type
+types , Names for built-in types,Data Type
+new , Creation of runtime internal objects,Data Type
+copy , Shallow and deep copy operations,Data Type
+pprint , Data pretty printer,Data Type
+repr , Alternate repr() implementation,Data Type
+numbers , Numeric abstract base classes,Numeric and Mathematical Modules
+math , Mathematical functions,Numeric and Mathematical Modules
+cmath , Mathematical functions for complex numbers,Numeric and Mathematical Modules
+decimal , Decimal fixed point and floating point arithmetic,Numeric and Mathematical Modules
+fractions , Rational numbers,Numeric and Mathematical Modules
+random , Generate pseudo-random numbers,Numeric and Mathematical Modules
+itertools , Functions creating iterators for efficient looping,Numeric and Mathematical Modules
+functools , Higher-order functions and operations on callable objects,Numeric and Mathematical Modules
+operator , Standard operators as functions,Numeric and Mathematical Modules
+os.path , Common pathname manipulations,File and Directory Access
+fileinput , Iterate over lines from multiple input streams,File and Directory Access
+stat , Interpreting stat() results,File and Directory Access
+statvfs , Constants used with os.statvfs(),File and Directory Access
+filecmp , File and Directory Comparisons,File and Directory Access
+tempfile , Generate temporary files and directories,File and Directory Access
+glob , Unix style pathname pattern expansion,File and Directory Access
+fnmatch , Unix filename pattern matching,File and Directory Access
+linecache , Random access to text lines,File and Directory Access
+shutil , High-level file operations,File and Directory Access
+dircache , Cached directory listings,File and Directory Access
+macpath , Mac OS 9 path manipulation functions,File and Directory Access
+pickle , Python object serialization,Data Persistance
+cPickle , A faster pickle,Data Persistance
+copy_reg , Register pickle support functions,Data Persistance
+shelve , Python object persistence,Data Persistance
+marshal , Internal Python object serialization,Data Persistance
+anydbm , Generic access to DBM-style databases,Data Persistance
+whichdb , Guess which DBM module created a database,Data Persistance
+dbm , Simple “database” interface,Data Persistance
+gdbm , GNU’s reinterpretation of dbm,Data Persistance
+dbhash , DBM-style interface to the BSD database library,Data Persistance
+bsddb , Interface to Berkeley DB library,Data Persistance
+dumbdbm , Portable DBM implementation,Data Persistance
+sqlite3 , DB-API 2.0 interface for SQLite databases,Data Persistance
+zlib , Compression compatible with gzip,Data Compression
+gzip , Support for gzip files,Data Compression
+bz2 , Compression compatible with bzip2,Data Compression
+zipfile , Work with ZIP archives,Data Compression
+tarfile , Read and write tar archive files,Data Compression
+csv , CSV File Reading and Writing,File Format
+ConfigParser , Configuration file parser,File Format
+robotparser , Parser for robots.txt,File Format
+netrc , netrc file processing,File Format
+xdrlib , Encode and decode XDR data,File Format
+plistlib , Generate and parse Mac OS X .plist files,File Format
+hashlib , Secure hashes and message digests,Cryptographic Services
+hmac , Keyed-Hashing for Message Authentication,Cryptographic Services
+md5 , MD5 message digest algorithm,Cryptographic Services
+sha , SHA-1 message digest algorithm,Cryptographic Services
+os , Miscellaneous operating system interfaces,Generic Operating System Services
+io , Core tools for working with streams,Generic Operating System Services
+time , Time access and conversions,Generic Operating System Services
+argparse ," Parser for command-line options, arguments and sub-commands",Generic Operating System Services
+optparse , Parser for command line options,Generic Operating System Services
+getopt , C-style parser for command line options,Generic Operating System Services
+logging , Logging facility for Python,Generic Operating System Services
+logging.config , Logging configuration,Generic Operating System Services
+logging.handlers , Logging handlers,Generic Operating System Services
+getpass , Portable password input,Generic Operating System Services
+curses , Terminal handling for character-cell displays,Generic Operating System Services
+curses.textpad , Text input widget for curses programs,Generic Operating System Services
+curses.ascii , Utilities for ASCII characters,Generic Operating System Services
+curses.panel , A panel stack extension for curses,Generic Operating System Services
+ platform , Access to underlying platform’s identifying data,Generic Operating System Services
+ errno , Standard errno system symbols,Generic Operating System Services
+ ctypes , A foreign function library for Python,Generic Operating System Services
+ select , Waiting for I/O completion,Optional Operating System Services
+ threading , Higher-level threading interface,Optional Operating System Services
+ thread , Multiple threads of control,Optional Operating System Services
+ dummy_threading , Drop-in replacement for the threading module,Optional Operating System Services
+ dummy_thread , Drop-in replacement for the thread module,Optional Operating System Services
+ multiprocessing , Process-based “threading” interface,Optional Operating System Services
+ mmap , Memory-mapped file support,Optional Operating System Services
+ readline , GNU readline interface,Optional Operating System Services
+ rlcompleter , Completion function for GNU readline,Optional Operating System Services
+ subprocess , Subprocess management,Interprocess Communications and Networking
+ socket , Low-level networking interface,Interprocess Communications and Networking
+ ssl , TLS/SSL wrapper for socket objects,Interprocess Communications and Networking
+ signal , Set handlers for asynchronous events,Interprocess Communications and Networking
+ popen2 , Subprocesses with accessible I/O streams,Interprocess Communications and Networking
+ asyncore , Asynchronous socket handler,Interprocess Communications and Networking
+ asynchat , Asynchronous socket command/response handler,Interprocess Communications and Networking
+ email , An email and MIME handling package,Internet Data Handling
+ json , JSON encoder and decoder,Internet Data Handling
+ mailcap , Mailcap file handling,Internet Data Handling
+ mailbox , Manipulate mailboxes in various formats,Internet Data Handling
+ mhlib , Access to MH mailboxes,Internet Data Handling
+ mimetools , Tools for parsing MIME messages,Internet Data Handling
+ mimetypes , Map filenames to MIME types,Internet Data Handling
+ MimeWriter , Generic MIME file writer,Internet Data Handling
+ mimify , MIME processing of mail messages,Internet Data Handling
+ multifile , Support for files containing distinct parts,Internet Data Handling
+ rfc822 , Parse RFC 2822 mail headers,Internet Data Handling
+ base64 ," RFC 3548: Base16, Base32, Base64 Data Encodings",Internet Data Handling
+ binhex , Encode and decode binhex4 files,Internet Data Handling
+ binascii , Convert between binary and ASCII,Internet Data Handling
+ quopri , Encode and decode MIME quoted-printable data,Internet Data Handling
+ uu , Encode and decode uuencode files,Internet Data Handling
+ HTMLParser , Simple HTML and XHTML parser,Structured Markup Processing Tools
+ sgmllib , Simple SGML parser,Structured Markup Processing Tools
+ htmllib , A parser for HTML documents,Structured Markup Processing Tools
+ htmlentitydefs , Definitions of HTML general entities,Structured Markup Processing Tools
+ xml.etree.ElementTree,The ElementTree XML API,Structured Markup Processing Tools
+ xml.dom,The Document Object Model API,Structured Markup Processing Tools
+ xml.dom.minidom,Minimal DOM implementation,Structured Markup Processing Tools
+ xml.dom.pulldom,Support for building partial DOM trees,Structured Markup Processing Tools
+ xml.sax,Support for SAX2 parsers,Structured Markup Processing Tools
+ xml.sax.handler,Base classes for SAX handlers,Structured Markup Processing Tools
+ xml.sax.saxutils,SAX Utilities,Structured Markup Processing Tools
+ xml.sax.xmlreader,Interface for XML parsers,Structured Markup Processing Tools
+ webbrowser , Convenient Web-browser controller,Structured Markup Processing Tools
+xml.parsers.expat,Fast XML parsing using Expat,Structured Markup Processing Tools
+webbrowser,Convenient Web-browser controller,Internet Protocols and Support
+ cgi , Common Gateway Interface support,Internet Protocols and Support
+ cgitb , Traceback manager for CGI scripts,Internet Protocols and Support
+ wsgiref , WSGI Utilities and Reference Implementation,Internet Protocols and Support
+ urllib , Open arbitrary resources by URL,Internet Protocols and Support
+ urllib2 , extensible library for opening URLs,Internet Protocols and Support
+ httplib , HTTP protocol client,Internet Protocols and Support
+ ftplib , FTP protocol client,Internet Protocols and Support
+ poplib , POP3 protocol client,Internet Protocols and Support
+ imaplib , IMAP4 protocol client,Internet Protocols and Support
+ nntplib , NNTP protocol client,Internet Protocols and Support
+ smtplib , SMTP protocol client,Internet Protocols and Support
+ smtpd , SMTP Server,Internet Protocols and Support
+ telnetlib , Telnet client,Internet Protocols and Support
+ uuid , UUID objects according to RFC 4122,Internet Protocols and Support
+ urlparse , Parse URLs into components,Internet Protocols and Support
+ SocketServer , A framework for network servers,Internet Protocols and Support
+ BaseHTTPServer , Basic HTTP server,Internet Protocols and Support
+ SimpleHTTPServer , Simple HTTP request handler,Internet Protocols and Support
+ CGIHTTPServer , CGI-capable HTTP request handler,Internet Protocols and Support
+ cookielib , Cookie handling for HTTP clients,Internet Protocols and Support
+ Cookie , HTTP state management,Internet Protocols and Support
+ xmlrpclib , XML-RPC client access,Internet Protocols and Support
+ SimpleXMLRPCServer , Basic XML-RPC server,Internet Protocols and Support
+ DocXMLRPCServer , Self-documenting XML-RPC server,Internet Protocols and Support
+ audioop , Manipulate raw audio data,Multimedia Services
+ imageop , Manipulate raw image data,Multimedia Services
+ aifc , Read and write AIFF and AIFC files,Multimedia Services
+ sunau , Read and write Sun AU files,Multimedia Services
+ wave , Read and write WAV files,Multimedia Services
+ chunk , Read IFF chunked data,Multimedia Services
+ colorsys , Conversions between color systems,Multimedia Services
+ imghdr , Determine the type of an image,Multimedia Services
+ sndhdr , Determine type of sound file,Multimedia Services
+ ossaudiodev , Access to OSS-compatible audio devices,Multimedia Services
+ gettext , Multilingual internationalization services,Internationalization
+ locale , Internationalization services,Internationalization
+ cmd , Support for line-oriented command interpreters,Program Frameworks
+ shlex , Simple lexical analysis,Program Frameworks
+ Tkinter , Python interface to Tcl/Tk,Graphical User Interfaces with Tk
+ ttk , Tk themed widgets,Graphical User Interfaces with Tk
+ Tix , Extension widgets for Tk,Graphical User Interfaces with Tk
+ ScrolledText , Scrolled Text Widget,Graphical User Interfaces with Tk
+ turtle , Turtle graphics for Tk,Graphical User Interfaces with Tk
+ pydoc , Documentation generator and online help system,Development Tools
+ doctest , Test interactive Python examples,Development Tools
+ unittest , Unit testing framework,Development Tools
+ 2to3,Automated Python 2 to 3 code translation,Development Tools
+ test , Regression tests package for Python,Development Tools
+ test.support,Utility functions for tests,Development Tools
+ bdb , Debugger framework,Debugging Tools
+ pdb , The Python Debugger,Debugging Tools
+ hotshot , High performance logging profiler,Debugging Tools
+ timeit , Measure execution time of small code snippets,Debugging Tools
+ trace , Trace or track Python statement execution,Debugging Tools
+ distutils , Building and installing Python modules,Software Packaging and Distribution
+ ensurepip , Bootstrapping the pip installer,Software Packaging and Distribution
+ sys , System-specific parameters and functions,Python Runtime Service
+ sysconfig , Provide access to Python’s configuration information,Python Runtime Service
+ __builtin__ , Built-in objects,Python Runtime Service
+ future_builtins , Python 3 builtins,Python Runtime Service
+ __main__ , Top-level script environment,Python Runtime Service
+ warnings , Warning control,Python Runtime Service
+ contextlib , Utilities for with-statement contexts,Python Runtime Service
+ abc , Abstract Base Classes,Python Runtime Service
+ atexit , Exit handlers,Python Runtime Service
+ traceback , Print or retrieve a stack traceback,Python Runtime Service
+ __future__ , Future statement definitions,Python Runtime Service
+ gc , Garbage Collector interface,Python Runtime Service
+ inspect , Inspect live objects,Python Runtime Service
+ site , Site-specific configuration hook,Python Runtime Service
+ user , User-specific configuration hook,Python Runtime Service
+ fpectl , Floating point exception control,Python Runtime Service
+ code , Interpreter base classes,Custom Python Interpreters
+ codeop , Compile Python code,Custom Python Interpreters
+ rexec , Restricted execution framework,Restricted Execution
+ Bastion , Restricting access to objects,Restricted Execution
+ imp , Access the import internals,Importing Modules
+ importlib , Convenience wrappers for __import__(),Importing Modules
+ imputil , Import utilities,Importing Modules
+ zipimport , Import modules from Zip archives,Importing Modules
+ pkgutil , Package extension utility,Importing Modules
+ modulefinder , Find modules used by a script,Importing Modules
+ runpy , Locating and executing Python modules,Importing Modules
+ parser , Access Python parse trees,Python Language Services
+ ast , Abstract Syntax Trees,Python Language Services
+ symtable , Access to the compiler’s symbol tables,Python Language Services
+ symbol , Constants used with Python parse trees,Python Language Services
+ token , Constants used with Python parse trees,Python Language Services
+ keyword , Testing for Python keywords,Python Language Services
+ tokenize , Tokenizer for Python source,Python Language Services
+ tabnanny , Detection of ambiguous indentation,Python Language Services
+ pyclbr , Python class browser support,Python Language Services
+ py_compile , Compile Python source files,Python Language Services
+ compileall , Byte-compile Python libraries,Python Language Services
+ dis , Disassembler for Python bytecode,Python Language Services
+ pickletools , Tools for pickle developers,Python Language Services
+ formatter , Generic output formatting,Miscellaneous Services
+ msilib , Read and write Microsoft Installer files,MS Windows Specific Services
+ msvcrt , Useful routines from the MS VC++ runtime,MS Windows Specific Services
+ _winreg , Windows registry access,MS Windows Specific Services
+ winsound , Sound-playing interface for Windows,MS Windows Specific Services
+ posix , The most common POSIX system calls,Unix Specific Services
+ pwd , The password database,Unix Specific Services
+ spwd , The shadow password database,Unix Specific Services
+ grp , The group database,Unix Specific Services
+ crypt , Function to check Unix passwords,Unix Specific Services
+ dl , Call C functions in shared objects,Unix Specific Services
+ termios , POSIX style tty control,Unix Specific Services
+ tty , Terminal control functions,Unix Specific Services
+ pty , Pseudo-terminal utilities,Unix Specific Services
+ fcntl , The fcntl and ioctl system calls,Unix Specific Services
+ pipes , Interface to shell pipelines,Unix Specific Services
+ posixfile , File-like objects with locking support,Unix Specific Services
+ resource , Resource usage information,Unix Specific Services
+ nis , Interface to Sun’s NIS (Yellow Pages),Unix Specific Services
+ syslog , Unix syslog library routines,Unix Specific Services
+ commands , Utilities for running commands,Unix Specific Services
+ ic , Access to the Mac OS X Internet Config,Mac OS X Specific Services
+ MacOS , Access to Mac OS interpreter features,Mac OS X Specific Services
+ macostools , Convenience routines for file manipulation,Mac OS X Specific Services
+ findertools , The finder’s Apple Events interface,Mac OS X Specific Services
+ EasyDialogs , Basic Macintosh dialogs,Mac OS X Specific Services
+ FrameWork , Interactive application framework,Mac OS X Specific Services
+ autoGIL , Global Interpreter Lock handling in event loops,Mac OS X Specific Services
+ ColorPicker , Color selection dialog,Mac OS X Specific Services
+ gensuitemodule , Generate OSA stub packages,MacPython OSA Modules
+ aetools , OSA client support,MacPython OSA Modules
+ aepack , Conversion between Python variables and AppleEvent data containers,MacPython OSA Modules
+ aetypes , AppleEvent objects,AppleEvent Data Containers
+ MiniAEFrame , Open Scripting Architecture server support,AppleEvent Data Containers
+ al , Audio functions on the SGI,SGI IRIX Specific Services
+ AL , Constants used with the al module,SGI IRIX Specific Services
+ cd , CD-ROM access on SGI systems,SGI IRIX Specific Services
+ fl , FORMS library for graphical user interfaces,SGI IRIX Specific Services
+ FL , Constants used with the fl module,SGI IRIX Specific Services
+ flp , Functions for loading stored FORMS designs,SGI IRIX Specific Services
+ fm , Font Manager interface,SGI IRIX Specific Services
+ gl , Graphics Library interface,SGI IRIX Specific Services
+ DEVICE , Constants used with the gl module,SGI IRIX Specific Services
+ GL , Constants used with the gl module,SGI IRIX Specific Services
+ imgfile , Support for SGI imglib files,SGI IRIX Specific Services
+ jpeg , Read and write JPEG files,SGI IRIX Specific Services
+ sunaudiodev , Access to Sun audio hardware,SunOS
+ SUNAUDIODEV , Constants used with sunaudiodev,SunOS
