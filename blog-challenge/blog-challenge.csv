@@ -1,0 +1,11 @@
+Recognized by Polarity,Annotation
+added bonus,"Send an email to info@polarity.io with your t-shirt size and a mailing address.  Reference the title of this blog post, and we'll send cool shirt to the first 5 people who respond!"
+the right data at the right time,Polarity gives you the right data at the right time with our software-based Augmented Reality.
+Data Awareness ,Having the right data to make better decisions is Data Awareness.
+Data Recall,Getting the data you need to act fast is Data Recall.
+ServiceNow,"Polarity's ServiceNow integration allows the lookup of system user emails, domains, IPv4s, and optionally strings from channels for incident and/or asset information, ServiceNow change request IDs (e.g. CHG00000012), ServiceNow incident IDs (e.g. INC00000154), and ServiceNow Knowledge Base IDs (e.g. KB0000008) against your instance of ServiceNow. In addition, we can search for IPv4 addresses against custom fields that you specify when searching Incidents."
+EmailRep,Polarity's EmailRep integration queries EmailRep.io's api to let you know if an email is suspicious and has a good reputation in order to know if the email might be of malicious intent.
+Splunk ES,Polarity's Splunk integration allows a user to connect and search a Splunk instance.
+PassiveTotal,"Polarity's PassiveTotal integration searches PassiveTotal for Whois information on domains and emails. For domains, the integration will additionally retrieve malware and open source intelligence in the details."
+VirusTotal,"Polarity's VirusTotal integration gives users access to automated MD5, SHA1, SHA256, and IPv4 lookups within VirusTotal and makes use of the public v2.0 REST API."
+Carbon Black,Polarity's Carbon Black integration allows Polarity to search your Carbon Black deployment for MD5 hashes in real-time. The integration gives you real-time insight into whether a binary has run on your network.
