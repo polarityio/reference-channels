@@ -13,7 +13,6 @@ AndroRAT,,AndroRAT is malware that allows a third party to control the device an
 Arp,arp.exe,Arp displays information about a system's Address Resolution Protocol (ARP) cache.
 ASPXSpy,ASPXTool,ASPXSpy is a Web shell. It has been modified by Threat Group-3390 actors to create the ASPXTool version.
 Astaroth,,Astaroth is a Trojan and information stealer known to affect companies in Europe and Brazil. It has been known publicly since at least late 2017.
-at,at.exe,at is used to schedule tasks on a system to run at a specified date or time.
 AuditCred,Roptimizer,AuditCred is a malicious DLL that has been used by Lazarus Group during their 2018 attacks.
 AutoIt backdoor,,AutoIt backdoor is malware that has been used by the actors responsible for the MONSOON campaign. The actors frequently used it in weaponized .pps files exploiting CVE-2014-6352. This malware makes use of the legitimate scripting language for Windows GUI automation with the same name.
 Azorult,,"Azorult is a commercial Trojan that is used to steal information from compromised hosts. Azorult has been observed in the wild as early as 2016. In July 2018, Azorult was seen used in a spearphishing campaign against targets in North America. Azorult has been seen used for cryptocurrency theft."
