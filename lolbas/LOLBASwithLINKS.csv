@@ -1,0 +1,235 @@
+Binary,Function,Type,LINK,Attack
+AppInstaller.exe,Function: Download,Type: Binaries,Link: https://lolbas-project.github.io/lolbas/Binaries/AppInstaller/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Aspnet_Compiler.exe,Function: AWL bypass,Type: Binaries,Link: https://lolbas-project.github.io/lolbas/Binaries/Aspnet_Compiler/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+At.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/At/ ,ATT&CK Technique: T1053.002: At
+Atbroker.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Atbroker/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Bash.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bash/,ATT&CK Technique: T1202: Indirect Command Execution
+Bash.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bash/,ATT&CK Technique: T1202: Indirect Command Execution
+Bitsadmin.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bitsadmin/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Bitsadmin.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bitsadmin/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Bitsadmin.exe,Function: Copy,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bitsadmin/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Bitsadmin.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Bitsadmin/,ATT&CK Technique: T1218: System Binary Proxy Execution
+CertOC.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certoc/,ATT&CK Technique: T1218: System Binary Proxy Execution
+CertOC.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certoc/,ATT&CK Technique: T1105: Ingress Tool Transfer
+CertReq.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certreq/,ATT&CK Technique: T1105: Ingress Tool Transfer
+CertReq.exe,Function: Upload,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certreq/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Certutil.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certutil/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Certutil.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certutil/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Certutil.exe,Function: Encode,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certutil/,ATT&CK Technique: T1027: Obfuscated Files or Information
+Certutil.exe,Function: Decode,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Certutil/,ATT&CK Technique: T1140: Deobfuscate/Decode Files or Information
+Cmd.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cmd/,ATT&CK Technique: T1059.003: Windows Command Shell
+Cmdkey.exe,Function: Credentials,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cmdkey/,ATT&CK Technique: T1078: Valid Accounts
+cmdl32.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cmdl32/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Cmstp.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cmstp/,ATT&CK Technique: T1218.003: CMSTP
+Cmstp.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cmstp/,ATT&CK Technique: T1218.003: CMSTP
+ConfigSecurityPolicy.exe,Function: Upload,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/ConfigSecurityPo=,ATT&CK Technique: T1567: Exfiltration Over Web Service
+Conhost.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Conhost/,ATT&CK Technique: T1202: Indirect Command Execution
+c,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Control/,ATT&CK Technique: T1218.002: Control Panel
+Csc.exe,Function: Compile,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Csc/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Cscript.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Cscript/,ATT&CK Technique: T1564.004: NTFS File Attributes
+CustomShellHost.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/CustomShellHost/,ATT&CK Technique: T1218: System Binary Proxy Execution
+DataSvcUtil.exe,Function: Upload,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/DataSvcUtil/,ATT&CK Technique: T1567: Exfiltration Over Web Service
+Desktopimgdownldr.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Desktopimgdownld=,ATT&CK Technique: T1105: Ingress Tool Transfer
+DeviceCredentialDeployment.exe,Function: Blank Per LOLBAS Project,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/DeviceCredential=,ATT&CK Technique: T1564: Hide Artifacts
+Dfsvc.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Dfsvc/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Diantz.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Diantz/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Diantz.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Diantz/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Diskshadow.exe,Function: Dump,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Diskshadow/,ATT&CK Technique: T1003.003: NTDS
+Diskshadow.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Diskshadow/,ATT&CK Technique: T1202: Indirect Command Execution
+Dnscmd.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Dnscmd/,ATT&CK Technique: T1543.003: Windows Service
+Esentutl.exe,Function: Copy,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Esentutl/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Esentutl.exe,Function: Alternate data streams,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Esentutl/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Esentutl.exe,Function: Download,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Esentutl/,ATT&CK Technique: T1003.003: NTDS
+Eventvwr.exe,Function: UAC bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Eventvwr/,ATT&CK Technique: T1548.002: Bypass User Account Control
+Expand.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Expand/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Expand.exe,Function: Copy,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Expand/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Expand.exe,Function: Alternate data streams,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Expand/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Explorer.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Explorer/,ATT&CK Technique: T1202: Indirect Command Execution
+Extexport.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Extexport/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Extrac32.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Extrac32/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Extrac32.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Extrac32/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Extrac32.exe,Function: Copy,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Extrac32/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Findstr.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Findstr/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Findstr.exe,Function: Credentials,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Findstr/,ATT&CK Technique: T1552.001: Credentials In Files
+Findstr.exe,Function: Download,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Findstr/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Finger.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Finger/,ATT&CK Technique: T1105: Ingress Tool Transfer
+fltMC.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/FltMC/,ATT&CK Technique: T1562.001: Disable or Modify Tools
+Forfiles.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Forfiles/,ATT&CK Technique: T1202: Indirect Command Execution
+Forfiles.exe,Function: Alternate data streams,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Forfiles/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Ftp.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ftp/,ATT&CK Technique: T1202: Indirect Command Execution
+Ftp.exe,Function: Download,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ftp/,ATT&CK Technique: T1105: Ingress Tool Transfer
+GfxDownloadWrapper.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/GfxDownloadWrapp=,ATT&CK Technique: T1105: Ingress Tool Transfer
+Gpscript.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Gpscript/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Hh.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Hh/ ,ATT&CK Technique: T1105: Ingress Tool Transfer
+Hh.exe,Function: Execute,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Hh/ ,ATT&CK Technique: T1218.001: Compiled HTML File
+IMEWDBLD.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/IMEWDBLD/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Ie4uinit.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ie4uinit/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Ieexec.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ieexec/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Ieexec.exe,Function: Execute,Type: ,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ieexec/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Ilasm.exe,Function: Compile,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ilasm/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Infdefaultinstall.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Infdefaultinstal=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Installutil.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Installutil/,ATT&CK Technique: T1218.004: InstallUtil
+Installutil.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Installutil/,ATT&CK Technique: T1218.004: InstallUtil
+Jsc.exe,Function: Compile,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Jsc/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Ldifde.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ldifde/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Makecab.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Makecab/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Makecab.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Makecab/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Mavinject.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mavinject/,ATT&CK Technique: T1218.013: Mavinject
+Mavinject.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mavinject/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Microsoft.Workflow.Compiler.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Microsoft.Workfl=,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Microsoft.Workflow.Compiler.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Microsoft.Workfl=,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Mmc.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mmc/,ATT&CK Technique: T1218.014: MMC
+Mmc.exe,Function: UAC bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mmc/,ATT&CK Technique: T1218.014: MMC
+MpCmdRun.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/MpCmdRun/,ATT&CK Technique: T1105: Ingress Tool Transfer
+MpCmdRun.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/MpCmdRun/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Msbuild.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msbuild/,ATT&CK Technique: T1127.001: MSBuild
+Msbuild.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msbuild/,ATT&CK Technique: T1127.001: MSBuild
+Msconfig.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msconfig/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Msdt.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msdt/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Msdt.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msdt/,ATT&CK Technique: 
+Mshta.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mshta/,ATT&CK Technique: T1218.005: Mshta
+Mshta.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Mshta/,ATT&CK Technique: T1218.005: Mshta
+Msiexec.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Msiexec/,ATT&CK Technique: T1218.007: Msiexec
+Netsh.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Netsh/,ATT&CK Technique: T1546.007: Netsh Helper DLL
+Odbcconf.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Odbcconf/,ATT&CK Technique: T1218.008: Odbcconf
+OfflineScannerShell.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/OfflineScannerSh=,ATT&CK Technique: T1218: System Binary Proxy Execution
+OneDriveStandaloneUpdater.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/OneDriveStandalo=,ATT&CK Technique: T1105: Ingress Tool Transfer
+Pcalua.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Pcalua/,ATT&CK Technique: T1202: Indirect Command Execution
+Pcwrun.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Pcwrun/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Pktmon.exe,Function: Reconnaissance,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Pktmon/,ATT&CK Technique: T1040: Network Sniffing
+Pnputil.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Pnputil/,ATT&CK Technique: T1547: Boot or Logon Autostart Execution
+Presentationhost.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Presentationhost=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Print.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Print/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Print.exe,Function: Copy,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Print/,ATT&CK Technique: T1105: Ingress Tool Transfer
+PrintBrm.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/PrintBrm/,ATT&CK Technique: T1105: Ingress Tool Transfer
+PrintBrm.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/PrintBrm/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Psr.exe,Function: Reconnaissance,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Psr/,ATT&CK Technique: T1113: Screen Capture
+Rasautou.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rasautou/,ATT&CK Technique: T1218: System Binary Proxy Execution
+rdrleakdiag.exe,Function: Dump,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rdrleakdiag/,ATT&CK Technique: T1003: OS Credential Dumping
+rdrleakdiag.exe,Function: Dump,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rdrleakdiag/,ATT&CK Technique: T1003.001: LSASS Memory
+Reg.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Reg/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Reg.exe,Function: Credentials,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Reg/,ATT&CK Technique: T1003.002: Security Account Manager
+Regasm.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regasm/,ATT&CK Technique: T1218.009: Regsvcs/Regasm
+Regasm.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regasm/,ATT&CK Technique: T1218.009: Regsvcs/Regasm
+Regedit.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regedit/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Regini.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regini/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Register-cimprovider.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Register-cimprov=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Regsvcs.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regsvcs/,ATT&CK Technique: T1218.009: Regsvcs/Regasm
+Regsvcs.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regsvcs/,ATT&CK Technique: T1218.009: Regsvcs/Regasm
+Regsvr32.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regsvr32/,ATT&CK Technique: T1218.010: Regsvr32
+Regsvr32.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Regsvr32/,ATT&CK Technique: T1218.010: Regsvr32
+Replace.exe,Function: Copy,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Replace/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Replace.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Replace/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Rpcping.exe,Function: Credentials,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rpcping/,ATT&CK Technique: T1003: OS Credential Dumping
+Rpcping.exe,Function: Credentials,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rpcping/,ATT&CK Technique: T1187: Forced Authentication
+Rundll32.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rundll32/,ATT&CK Technique: T1218.011: Rundll32
+Rundll32.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Rundll32/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Runonce.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Runonce/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Runscripthelper.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Runscripthelper/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Sc.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Sc/ ,ATT&CK Technique: T1564.004: NTFS File Attributes
+Schtasks.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Schtasks/,ATT&CK Technique: T1053.005: Scheduled Task
+Scriptrunner.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Scriptrunner/,ATT&CK Technique: T1202: Indirect Command Execution
+Scriptrunner.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Scriptrunner/,ATT&CK Technique: T1218: System Binary Proxy Execution
+SettingSyncHost.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/SettingSyncHost/,ATT&CK Technique: T1218: System Binary Proxy Execution
+ssh.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ssh/,ATT&CK Technique: T1202: Indirect Command Execution
+ssh.exe,Function: AWL bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ssh/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Stordiag.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Stordiag/,ATT&CK Technique: T1218: System Binary Proxy Execution
+SyncAppvPublishingServer.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Syncappvpublishi=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Ttdinject.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Ttdinject/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Tttracer.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Tttracer/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Tttracer.exe,Function: Dump,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Tttracer/,ATT&CK Technique: T1003: OS Credential Dumping
+Unregmp2.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Unregmp2/,ATT&CK Technique: T1202: Indirect Command Execution
+vbc.exe,Function: Compile,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Vbc/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Verclsid.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Verclsid/,ATT&CK Technique: T1218.012: Verclsid
+Wab.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wab/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Wlrmdr.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wlrmdr/,ATT&CK Technique: T1202: Indirect Command Execution
+Wmic.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wmic/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Wmic.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wmic/,ATT&CK Technique: T1218: System Binary Proxy Execution
+WorkFolders.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/WorkFolders/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Wscript.exe,Function: Alternate data streams,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wscript/,ATT&CK Technique: T1564.004: NTFS File Attributes
+Wsreset.exe,Function: UAC bypass,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wsreset/,ATT&CK Technique: T1548.002: Bypass User Account Control
+wuauclt.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Wuauclt/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Xwizard.exe,Function: Execute,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Xwizard/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Xwizard.exe,Function: Download,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/Xwizard/,ATT&CK Technique: T1105: Ingress Tool Transfer
+fsutil.exe,Function: Blank Per LOLBAS Project,Type: Binaries,Link:   https://lolbas-project.github.io/lolbas/Binaries/fsutil/,ATT&CK Technique: T1485: Data Destruction
+Advpack.dll,Function: AWL bypass,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Advpack/,ATT&CK Technique: T1218.011: Rundll32
+Advpack.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Advpack/,ATT&CK Technique: T1218.011: Rundll32
+Desk.cpl,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Desk/,ATT&CK Technique: T1218.011: Rundll32
+Dfshim.dll,Function: AWL bypass,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Dfshim/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Ieadvpack.dll,Function: AWL bypass,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Ieadvpack/,ATT&CK Technique: T1218.011: Rundll32
+Ieadvpack.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Ieadvpack/,ATT&CK Technique: T1218.011: Rundll32
+Ieframe.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Ieframe/,ATT&CK Technique: T1218.011: Rundll32
+Mshtml.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Mshtml/,ATT&CK Technique: T1218.011: Rundll32
+Pcwutl.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Pcwutl/,ATT&CK Technique: T1218.011: Rundll32
+Setupapi.dll,Function: AWL bypass,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Setupapi/,ATT&CK Technique: T1218.011: Rundll32
+Setupapi.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Setupapi/,ATT&CK Technique: T1218.011: Rundll32
+Shdocvw.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Shdocvw/,ATT&CK Technique: T1218.011: Rundll32
+Shell32.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Shell32/,ATT&CK Technique: T1218.011: Rundll32
+Syssetup.dll,Function: AWL bypass,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Syssetup/,ATT&CK Technique: T1218.011: Rundll32
+Syssetup.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Syssetup/,ATT&CK Technique: T1218.011: Rundll32
+Url.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Url/,ATT&CK Technique: T1218.011: Rundll32
+Zipfldr.dll,Function: Execute,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/Zipfldr/,ATT&CK Technique: T1218.011: Rundll32
+Comsvcs.dll,Function: Dump,Type: Libraries,Link:   https://lolbas-project.github.io/lolbas/Libraries/comsvcs/,ATT&CK Technique: T1003.001: LSASS Memory
+AccCheckConsole.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/AccCheckC=,ATT&CK Technique: T1218: System Binary Proxy Execution
+AccCheckConsole.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/AccCheckC=,ATT&CK Technique: T1218: System Binary Proxy Execution
+adplus.exe,Function: Dump,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Adplus/,ATT&CK Technique: T1003.001: LSASS Memory
+AgentExecutor.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Agentexec=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Appvlp.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Appvlp/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Bginfo.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Bginfo/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Bginfo.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Bginfo/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Cdb.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Cdb/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+coregen.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Coregen/,ATT&CK Technique: T1055: Process Injection
+coregen.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Coregen/,ATT&CK Technique: T1218: System Binary Proxy Execution
+csi.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Csi/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+DefaultPack.EXE,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/DefaultPa=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Devtoolslauncher.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Devtoolsl=,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+dnx.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Dnx/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Dotnet.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Dotnet/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Dotnet.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Dotnet/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Dump64.exe,Function: Dump,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Dump64/,ATT&CK Technique: T1003.001: LSASS Memory
+Dxcap.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Dxcap/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Excel.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Excel/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Fsi.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Fsi/,ATT&CK Technique: T1059: Command and Scripting Interpreter
+FsiAnyCpu.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/FsiAnyCpu=,ATT&CK Technique: T1059: Command and Scripting Interpreter
+Mftrace.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Mftrace/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Msdeploy.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msdeploy/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Msdeploy.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msdeploy/,ATT&CK Technique: T1218: System Binary Proxy Execution
+msxsl.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msxsl/,ATT&CK Technique: T1218: System Binary Proxy Execution
+msxsl.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Msxsl/,ATT&CK Technique: T1218: System Binary Proxy Execution
+ntdsutil.exe,Function: Dump,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Ntdsutil/,ATT&CK Technique: T1003.003: NTDS
+Powerpnt.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Powerpnt/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Procdump.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Procdump/,ATT&CK Technique: T1202: Indirect Command Execution
+rcsi.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Rcsi/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+rcsi.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Rcsi/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Remote.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Remote/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Remote.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Remote/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Sqldumper.exe,Function: Dump,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Sqldumper=,ATT&CK Technique: T1003: OS Credential Dumping
+Sqldumper.exe,Function: Dump,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Sqldumper=,ATT&CK Technique: T1003.001: LSASS Memory
+Sqlps.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Sqlps/,ATT&CK Technique: T1218: System Binary Proxy Execution
+SQLToolsPS.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Sqltoolsp=,ATT&CK Technique: T1218: System Binary Proxy Execution
+Squirrel.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Squirrel.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Squirrel.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/,ATT&CK Technique: T1218: System Binary Proxy Execution
+te.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Te/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Tracker.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Tracker/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Tracker.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Tracker/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Update.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Update/,ATT&CK Technique: T1218: System Binary Proxy Execution
+Update.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Update/,ATT&CK Technique: T1547: Boot or Logon Autostart Execution
+Update.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Update/,ATT&CK Technique: T1070: Indicator Removal on Host
+VSIISExeLauncher.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/VSIISExeL=,ATT&CK Technique: T1218: System Binary Proxy Execution
+VisualUiaVerifyNative.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/VisualUia=,ATT&CK Technique: T1218: System Binary Proxy Execution
+vsjitdebugger.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Vsjitdebu=,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Wfc.exe,Function: AWL bypass,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Wfc/,ATT&CK Technique: T1127-vTrusted Developer Utilities Proxy Execution
+Winword.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Winword/,ATT&CK Technique: T1105: Ingress Tool Transfer
+Wsl.exe,Function: Execute,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Wsl/,ATT&CK Technique: T1202: Indirect Command Execution
+Wsl.exe,Function: Download,Type: OtherMSBinaries,Link:   https://lolbas-project.github.io/lolbas/OtherMSBinaries/Wsl/,ATT&CK Technique: T1202: Indirect Command Execution
+CL_LoadAssembly.ps1,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/CL_LoadAssembly/,ATT&CK Technique: T1216: System Script Proxy Execution
+CL_Mutexverifiers.ps1,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/CL_mutexverifiers=,ATT&CK Technique: T1216: System Script Proxy Execution
+CL_Invocation.ps1,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Cl_invocation/,ATT&CK Technique: T1216: System Script Proxy Execution
+Manage-bde.wsf,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Manage-bde/,ATT&CK Technique: T1216: System Script Proxy Execution
+Pubprn.vbs,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Pubprn/,ATT&CK Technique: T1216.001: PubPrn
+Syncappvpublishingserver.vbs,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Syncappvpublishin=,ATT&CK Technique: T1216: System Script Proxy Execution
+UtilityFunctions.ps1,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/UtilityFunctions/,ATT&CK Technique: T1216: System Script Proxy Execution
+winrm.vbs,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Winrm/,ATT&CK Technique: T1216: System Script Proxy Execution
+winrm.vbs,Function: AWL bypass,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/Winrm/,ATT&CK Technique: T1216: System Script Proxy Execution
+Pester.bat,Function: Execute,Type: Scripts,Link:   https://lolbas-project.github.io/lolbas/Scripts/pester/,ATT&CK Technique: T1216: System Script Proxy Execution
