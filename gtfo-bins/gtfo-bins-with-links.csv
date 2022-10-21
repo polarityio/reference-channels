@@ -1,0 +1,335 @@
+Binary,Function,Type,LINK,Attack
+ab,"Function: File upload, File download, SUID, SUDO",Type: Binaries,https://gtfobins.github.io/gtfobins/ab
+agetty,Function: SUID,Type: Binaries,https://gtfobins.github.io/gtfobins/agetty
+alpine,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/alpine
+ansible-playbook,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ansible-playbook
+apt-get,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/apt-get
+apt,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/apt
+ar,"Function: Filer read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ar
+aria2c,"Function: Command, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/aria2c
+arj,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/arj
+as,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/as
+ascii-xfr,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ascii-xfr
+ascii85,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ascii-xfr
+ash,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ash
+aspell,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/aspell
+at,"Function: Shell, Command, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/at
+atobm,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/atobm
+awk,"Function: Shell, Non-interactive reverse shell, Non-interactive bind shell,File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/awk
+base32,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/base32
+base58,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/base58
+base64,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/base64
+basenc,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/basenc
+basez,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/basenc
+bash,"Function: Shell, Reverse Shell, File upload, File download, File write, File read, Library load, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/bash
+bpftrace,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/bpftrace
+bridge,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/bridge
+bundle,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/bundle
+bundler,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/bundler
+busctl,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/busctl
+busybox,"Function: Shell, File upload, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/busybox
+byebug,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/byebug
+bzip2,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/bzip2
+C89,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/c89
+C99,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/c99
+cancel,Function: File upload,Type: Binaries,https://gtfobins.github.io/gtfobins/cancel
+capsh,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/capsh
+cat,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cat
+cdist,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cdist
+certbot,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/certbot
+check_by_ssh,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_by_ssh
+check_cups,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_cups
+check_log,"Function: File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_log
+check_memory,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_memory
+check_raid,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_raid
+check_ssl_cert,"Function: Command, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_ssl_cert
+check_statusfile,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/check_statusfile
+chmod,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/chmod
+choom,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/choom
+chown,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/chown
+chroot,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/chroot
+cmp,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cmp
+cobc,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cobc
+column,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/column
+comm,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/comm
+composer,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/composer
+cowsay,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cowsay
+cowthink,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cowthink
+cp,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cp
+cpan,"Function: Shell, Reverse shell, File upload, File download, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cpan
+cpio,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cpio
+cpulimit,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cpulimit
+crash,"Function: Shell, Command, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/crash
+crontab,"Function: Command, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/crontab
+csh,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/csh
+csplit,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/csplit
+csvtool,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/csvtool
+cupsfilter,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cupsfilter
+curl,"Function: File upload, File download, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/curl
+cut,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/cut
+dash,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dash
+dd,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dd
+dialog,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dialog
+diff,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/diff
+dmesg,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dmesg
+dmidecode,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/dmidecode
+dmsetup,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dmsetup
+dnf,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/dnf
+docker,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/docker
+dosbox,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dosbox
+dpkg,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/dpkg
+dvips,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/dvips
+easy_install,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/easy_install
+eb,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/eb
+ed,"Function: Shell, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/ed
+efax,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/efax
+emacs,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/emacs
+env,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/env
+eqn,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/eqn
+ex,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ex
+exiftool,"Function: File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/exiftool
+expand,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/expand
+expect,"Function: Shell, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/expect
+facter,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/facter
+file,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/file
+find,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/find
+finger,"Function: File upload, File download",Type: Binaries,https://gtfobins.github.io/gtfobins/finger
+fish,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/fish
+flock,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/flock
+fmt,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/fmt
+fold,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/fold
+fping,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/fping
+ftp,"Function: Shell, File upload, File download, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ftp
+gawk,"Function: Shell, Non-interactive reverse shell, Non-interactive bind shell, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/gawk
+gcc,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gcc
+gcore,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gcore
+gdb,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/gdb
+gem,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gem
+genie,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/genie
+genisoimage,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/genisoimage
+ghc,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ghc
+ghci,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ghci
+gimp,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gimp
+ginsh,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/ginsh
+git,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/git
+grc,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/grc
+grep,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/grep
+gtester,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gtester
+gzip,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/gzip
+hd,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/hd
+head,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/head
+hexdump,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/hexdump
+highlight,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/highlight
+hping3,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/hping3
+iconv,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/iconv
+iftop,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/iftop
+install,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/install
+ionice,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ionice
+ip,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ip
+irb,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/irb
+ispell,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ispell
+jjs,"Function: Shell, Reverse shell, File download, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/jjs
+join,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/join
+journalctl,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/journalctl
+jq,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/jq
+jrunscript,"Function: Shell, Reverse shell, File download, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/jrunscript
+jtag,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/jtag
+knife,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/knife
+ksh,"Function: Shell, Reverse shell, File upload, File download, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ksh
+ksshell,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ksshell
+kubectl,"Function: File upload, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/kubectl
+latex,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/latex
+latexmk,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/latexmk
+id.so,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ld.so
+idconfig,"Function: Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/ldconfig
+less,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/less
+lftp,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/lftp
+ln,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/ln
+loginctl,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/loginctl
+logsave,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/logsave
+look,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/look
+lp,Function: File upload,Type: Binaries,https://gtfobins.github.io/gtfobins/lp
+ltrace,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ltrace
+lua,"Function: 	
+Shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/lua
+lualatex,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/lualatex
+luatex,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/luatex
+lwp-download,"Function: File download, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/lwp-download
+lwp-request,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/lwp-request
+mail,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/mail
+make,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/make
+man,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/man
+mawk,"Function: Shell, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/mawk
+more,"Function: Shell, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/more
+mosquitto,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/mosquitto
+mount,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/mount
+msgattrib,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msgattrib
+msgcat,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msgcat
+msgconv,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msgconv
+msgfilter,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msgfilter
+msgmerge,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msgmerge
+msguniq,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/msguniq
+mtr,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/mtr
+multitime,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/multitime
+mv,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/mv
+mysql,"Function: Shell, Library load, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/mysql
+nano,"Function: Shell, File write, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/nano
+nasm,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nasm
+nawk,"Function: Shell, Non-interactive reverse shell, Non-interactive bind shell, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/nawk
+nc,"Function: Reverse shell, Bind shell, File upload, File download, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/nc
+neofetch,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/neofetch
+nft,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nft
+nice,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nice
+nl,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nl
+nm,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nm
+nmap,"Function: Shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/nmap
+node,"Function: Shell, Reverse shell, Bind shell, File upload, File download, File write, File read, SUID, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/node
+nohup,"Function: Shell, Command, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nohup
+npm,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/npm
+nroff,"Function: Shell, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nroff
+nsenter,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/nsenter
+octave,"Function: Shell, File write, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/octave
+od,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/od
+openssl,"Function: Reverse shell, File upload, File download, File write, File read, Library load, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/openssl
+openvpn,"Function: Shell, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/openvpn
+openvt,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/openvt
+opkg,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/opkg
+paste,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/paste
+pax,Function: File read,Type: Binaries,https://gtfobins.github.io/gtfobins/pax
+pdb,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/pdb
+pdflatex,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/pdflatex
+pdftex,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/pdftex
+perf,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/perf
+perl,"Function: Shell, Reverse shell, File read, SUID, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/perl
+pg,"Function: Shell, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/pg
+php,"Function: Shell, Command, Reverse shell, File upload, File download, File write, File read, SUID, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/php
+pic,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/pic
+pico,"Function: Shell, File write, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/pico
+pidstat,"Function: Command, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/pidstat
+pip,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/pip
+pkexec,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/pkexec
+pkg,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/pkg
+pr,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/pr
+pry,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/pry
+psftp,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/psftp
+psql,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/psql
+ptx,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ptx
+puppet,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/puppet
+python,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/python
+rake,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rake
+readelf,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/readelf
+red,"Function: File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/red
+redcarpet,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/redcarpet
+restic,"Function: File upload, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/restic
+rev,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/rev
+rlogin,Function: File upload,Type: Binaries,https://gtfobins.github.io/gtfobins/rlogin
+rlwrap,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/rlwrap
+rpm,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rpm
+rpmdb,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rpmdb
+rpmquery,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rpmquery
+rpmverify,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rpmverify
+rsync,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/rsync
+ruby,"Function: Shell, Reverse shell, File upload, File download, File write, File read, Library load, Sudo, Capabilities",Type: Binaries,https://gtfobins.github.io/gtfobins/ruby
+run-mailcap,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/run-mailcap
+run-parts,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/run-parts
+review,"Function: Shell, Reverse shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rview
+rvim,"Function: Shell, Reverse shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/rvim
+sash,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sash
+scanmem,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/scanmem
+scp,"Function: Shell, File upload, File download, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/scp
+screen,"Function: Shell, File write, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/screen
+script,"Function: Shell, File write, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/script
+scrot,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/scrot
+sed,"Function: Shell, Command, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sed
+service,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/service
+setarch,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/setarch
+setfacl,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/setfacl
+sftp,"Function: Shell, File upload, File download, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sftp
+sg,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sg
+shuf,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/shuf
+slsh,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/slsh
+smbclient,"Function: Shell, File upload, File download, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/smbclient
+snap,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/snap
+socat,"Function: Shell, Reverse shell, Bind shell, File upload, File download, File write, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/socat
+soelim,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/soelim
+sort,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sort
+split,"Function: Shell, Command, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/split
+sqlite3,"Function: Shell, File write, File read, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/sqlite3
+ss,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ss
+ssh-keygen,"Function: Library Load, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ssh-keygen
+ssh-keyscan,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ssh-keyscan
+ssh,"Function: Shell, File upload, File download, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ssh
+sshpass,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sshpass
+start-stop-daemon,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/start-stop-daemon
+stdbuf,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/stdbuf
+strace,"Function: Shell, File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/strace
+strings,"Function: File read, SUID, Sudo ",Type: Binaries,https://gtfobins.github.io/gtfobins/strings
+su,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/su
+sysctl,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/sysctl
+systemctl,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/systemctl
+systemd-resolve,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/systemd-resolve
+tac,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tac
+tail,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tail
+tar,"Function: Shell, File upload, File download, File write, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/tar
+task,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/task
+taskset,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/taskset
+tasksh,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/tasksh
+tbl,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tbl
+tclsh,"Function: Shell, Non-interactive reverse shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tclsh
+tcpdump,"Function: Command, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tcpdump
+tee,"Function: File write, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tee
+telnet,"Function: Shell, Reverse shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/telnet
+tex,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/tex
+tftp,"Function: File upload, File download, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tftp
+tic,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tic
+time,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/time
+timedatectl,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/timedatectl
+timeout,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/timeout
+tmate,"Function: Shell, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/tmate
+tmux,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/tmux
+top,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/top
+troff,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/troff
+tshark,Function: Shell,Type: Binaries,https://gtfobins.github.io/gtfobins/tshark
+ul,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/ul
+unexpand,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/unexpand
+uniq,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/uniq
+unshare,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/unshare
+unzip,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/unzip
+update-alternatives,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/update-alternatives
+uudecode,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/uudecode
+uuencode,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/uuencode
+valgrind,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/valgrind
+vi,"Function: Shell, File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/vi
+view,"Function: Shell, Reverse shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, Library load, SUID, Sudo Capabilities Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/view
+vigr,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/vigr
+vim,"Function: Shell, Reverse shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/vim
+vimdiff,"Function: Shell, Reverse shell, Non-interactive reverse shell, Non-interactive bind shell, File upload, File download, File write, File read, Library load, SUID, Sudo, Capabilities, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/vimdiff
+vipw,"Function: SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/vipw
+virsh,"Function: File write, File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/virsh
+volatility,Function: Shell,Type: Binaries,https://gtfobins.github.io/gtfobins/volatility
+wall,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/wall
+watch,"Function: Shell, SUID, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/watch
+wc,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/wc
+wget,"Function: File upload, File download, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/wget
+whiptail,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/whiptail
+whois,"Function: File upload, File download",Type: Binaries,https://gtfobins.github.io/gtfobins/whois
+wireshark,Function: Sudo,Type: Binaries,https://gtfobins.github.io/gtfobins/wireshark
+wish,"Function: Shell, Non-interactive reverse shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/wish
+xargs,"Function: Shell, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xargs
+xdotool,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xdotool
+xelatex,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/xelatex
+xetex,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xetex
+xmodmap,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xmodmap
+xmore,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xmore
+xpad,"Function: File read, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xpad
+xxd,"Function: File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xxd
+xz,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/xz
+yarn,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/yarn
+yash,"Function: Shell, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/yash
+yelp,Function: File read,Type: Binaries,https://gtfobins.github.io/gtfobins/yelp
+yum,"Function: File download, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/yum
+zathura,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/zathura
+zip,"Function: Shell, File read, Sudo, Limited SUID",Type: Binaries,https://gtfobins.github.io/gtfobins/zip
+zsh,"Function: Shell, File write, File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/zsh
+zsoelim,"Function: File read, SUID, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/zsoelim
+zypper,"Function: Shell, Sudo",Type: Binaries,https://gtfobins.github.io/gtfobins/zypper
